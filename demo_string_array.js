@@ -2,7 +2,7 @@ const code = `
 var a = 'hello world'   
 `
 const options = {
-  stringArray: false,
+  stringArray: true,
   rotateStringArray: true,
   stringArrayEncoding: true, // 'base64' or 'rc4' or false
   stringArrayThreshold: 1,

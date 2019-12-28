@@ -18,7 +18,7 @@ const code = `
 
 const options = {
   compact: false,
-  controlFlowFlattening: false
+  controlFlowFlattening: true
 }
 
 const obfuscator = require('javascript-obfuscator')
