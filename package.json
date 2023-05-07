@@ -9,6 +9,6 @@
   "author": "Germey",
   "license": "MIT",
   "devDependencies": {
-    "javascript-obfuscator": "^0.18.8"
+    "javascript-obfuscator": "^4.0.2"
   }
 }
